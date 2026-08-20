@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local settings
+.env
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
